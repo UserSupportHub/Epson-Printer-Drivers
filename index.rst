@@ -32,7 +32,7 @@ Where to Download Epson Drivers
 
 The safest place to download Epson drivers is from the official Epson website:
 
-▶ Visit: `https://www.epson.com/Support <https://www.epson.com/Support>`_
+▶ Visit: `https://www.epson.com/Support <#>`_
 
 Step-by-Step:
 
@@ -69,28 +69,36 @@ Common Driver Issues & How to Fix Them
 ======================================
 
 Issue 1: Printer not recognized  
+
 Fix: Try reconnecting USB or rejoining Wi-Fi; reinstall the driver  
 
 Issue 2: Blank or partial prints  
+
 Fix: Update the driver and check ink levels  
 
 Issue 3: Driver not compatible with your OS  
+
 Fix: Ensure you've selected the correct OS during download  
 
 Issue 4: Print jobs stuck in queue  
+
 Fix: Restart your printer and PC, or clear the print spooler  
 
 FAQs
 ====
 
 **Q1: Can I install Epson printer drivers without the CD?**  
+
 Yes, download drivers directly from the official Epson website.  
 
 **Q2: Do Epson printers work with Windows 11?**  
+
 Yes, most modern Epson printers support Windows 11. Always get the latest drivers.  
 
 **Q3: How do I update my Epson printer drivers?**  
+
 Use Epson Software Updater or manually download the newest drivers from Epson Support.  
 
-**Q4: Why isn’t my Epson printer working after a Windows update?**  
+**Q4: Why isn’t my Epson printer working after a Windows update?** 
+
 Windows updates can affect printer settings. Reinstall or update your driver to fix issues.  
